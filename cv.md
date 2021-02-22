@@ -1,8 +1,9 @@
 # rsschool-cv
 ## 1. Angelina Ganzha
 -------------
- 2.  e-mail: angelina_chkan@ukr.net
-     phone: 38(095)091 19 69
+ 2.  *e-mail: angelina_chkan@ukr.net*
+     
+     *phone: 38(095)091 19 69*
      
 **3. Personal qualities:**
 - responsibility
@@ -12,7 +13,7 @@
 - optimism
 - ability to learn quickly
 
-**4.I have basic knowledge:**
+**4. I have basic knowledge:**
 * HTML;
 * CSS;
 * JavaScript;
